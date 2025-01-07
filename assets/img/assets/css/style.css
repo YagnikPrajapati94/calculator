@@ -1,0 +1,9 @@
+form{
+    border-radius: 20px !important;
+    border: 1px solid rgba(255, 255, 255, 0.162) !important;
+    backdrop-filter: blur(5px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
+}
+.box{
+    height: 100vh ;
+}
